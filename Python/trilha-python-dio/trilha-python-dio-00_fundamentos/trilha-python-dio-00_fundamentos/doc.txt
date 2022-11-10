@@ -1,0 +1,21 @@
+dir()
+dir(100)
+
+help()
+help(100)
+
+Boas Praticas:
+
+Zen do Python
+
+Padrão de nomes deve ser snake case (nome_pessoa)
+Escolher nomes Sugestivos
+Nomes de constantes em maiusculas
+
+builtin dir = 
+
+
+input sempre recebe os valores em string
+
+sep= separador
+end=  final da linha
